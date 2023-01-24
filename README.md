@@ -1,5 +1,4 @@
 # DDJD
-
 Jetpack Joyride-like game develoed for the course of Design and Development of Digital Games n FEUP 
 
 ## Prelimary Project
